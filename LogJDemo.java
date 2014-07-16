@@ -1,3 +1,4 @@
+/* This is basic Program */
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 
